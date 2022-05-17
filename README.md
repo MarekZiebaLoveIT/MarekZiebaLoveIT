@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Marek
+- 👋 Hi, I’m @Marek, I am seeking for new experiences in Full-Stack Development
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning Angular and perfecting JS
-- 💞️ I’m looking to collaborate with companies that are looking for fast learning front-end developers
+- 🌱 I’m currently learning Java and Spring 
+- 💞️ I’m looking to collaborate with companies that are looking for fast learners :)
 - 📫 How to reach me -> marekzieba2@wp.pl
 
 <!---
